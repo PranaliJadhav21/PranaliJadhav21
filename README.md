@@ -42,10 +42,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=PranaliJadhav21&theme=tokyonight&no-frame=true)
 
 ### 🎓 Certifications & Awards
-- 🎓 NPTEL Programming in Java – 91% (Elite + Silver)
-- 📜 Core Java Certification (2025)
-- 🎓 NPTEL Entrepreneurship – Elite
-- 🌟 Star of the Month – Quizzomania (July 2025)
+- 📜 Core Java Programming Certification (Feb–Apr 2025)  
+  Completed training covering OOPs, exception handling, file handling, and JDBC  
+
+- 🎓 Programming in Java – NPTEL (Jul–Oct 2025)  
+  Scored 91% (Elite + Silver)  
+
+- 🎓 Entrepreneurship – NPTEL (Jul–Oct 2025)  
+  Achieved Elite with 71%  
+
+- 🌟 Star of the Month – Quizzomania (July 2025)  
+  Awarded for outstanding quiz performance  
 
 ---
 
