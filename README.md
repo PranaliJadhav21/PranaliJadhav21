@@ -37,7 +37,15 @@
 ---
 
 ## 🏆 Achievements
+
+### 📊 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=PranaliJadhav21&theme=tokyonight&no-frame=true)
+
+### 🎓 Certifications & Awards
+- 🎓 NPTEL Programming in Java – 91% (Elite + Silver)
+- 📜 Core Java Certification (2025)
+- 🎓 NPTEL Entrepreneurship – Elite
+- 🌟 Star of the Month – Quizzomania (July 2025)
 
 ---
 
